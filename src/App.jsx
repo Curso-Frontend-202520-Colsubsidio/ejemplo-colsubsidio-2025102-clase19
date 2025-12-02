@@ -9,8 +9,8 @@ function App() {
             proceso de despliege
           </p>
           <p className="text-2xl">
-            Adicionalmente, se tiene la habilidad de desplegar cada vez
-            que un commit nuevo entre al repositorio
+            Este es un cambio malvado, muahahahaha, infecte a la pagina
+            porque no se escribir codigo :PPPPPPPPPPPPPPPPPP
           </p>
         </div>
       </div>
